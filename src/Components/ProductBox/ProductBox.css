@@ -1,0 +1,76 @@
+.ProductBox
+{
+    background-color: transparent;
+
+    border-radius: 12px;
+    border : 2px dashed var(--dark);
+    overflow: hidden;
+    
+    margin: 0 10px;
+    padding: 5px;
+
+    max-width: 200px;
+    height: 325px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    transition: all 0.5s linear;
+
+
+}
+
+.ProductImageBox
+{
+   border-radius: 5%;
+   background-color: var(--light);
+
+   padding: 2px;
+
+   flex : 1;
+}
+
+.ProductTitle
+{
+    padding-top: 5px;
+
+    flex : 2;
+    
+    text-align: center;
+    font-weight: bold;
+
+    display : block;
+    overflow: hidden;
+}
+
+.AddToCartButton
+{
+    background-color: var(--lighter);
+    
+    border : 1px solid var(--dark);
+    border-radius: 25px;
+
+    flex :1;
+
+    font-size: 20px;
+    color : black;
+
+    cursor: pointer;
+    
+    transition: all 0.5s ease;
+}
+
+.AddToCartButton:hover
+{
+    background-color: var(--darker);
+    color : var(--lighter);
+    border-radius : 10px;
+    font-size : 21px;
+    
+}
+.AddToCartButton:active
+{
+    background-color: var(--dark);
+    transition: all 0s ease;
+}

@@ -1,0 +1,20 @@
+/*F4F6F2*/
+:root
+{
+  
+    --lighter : #FFE3E3;
+    --light : #E4D8DC;
+    --dark : #C9CCD5;
+    --darker : #93B5C6;
+    
+}
+*{ font-family:'Poppins'; }
+
+body {
+  
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--darker);
+}
+
