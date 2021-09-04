@@ -1,0 +1,6 @@
+{
+  "short_name": "React Slider",
+  "name": "React Slider Example for Products",
+  "start_url": ".",
+  "display": "standalone"
+}

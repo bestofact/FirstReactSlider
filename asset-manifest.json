@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FirstReactSlider/static/css/main.166a9b3a.chunk.css",
+    "main.js": "/FirstReactSlider/static/js/main.29b7cc28.chunk.js",
+    "main.js.map": "/FirstReactSlider/static/js/main.29b7cc28.chunk.js.map",
+    "runtime-main.js": "/FirstReactSlider/static/js/runtime-main.a7eee316.js",
+    "runtime-main.js.map": "/FirstReactSlider/static/js/runtime-main.a7eee316.js.map",
+    "static/js/2.35ae814e.chunk.js": "/FirstReactSlider/static/js/2.35ae814e.chunk.js",
+    "static/js/2.35ae814e.chunk.js.map": "/FirstReactSlider/static/js/2.35ae814e.chunk.js.map",
+    "static/js/3.eabb0dec.chunk.js": "/FirstReactSlider/static/js/3.eabb0dec.chunk.js",
+    "static/js/3.eabb0dec.chunk.js.map": "/FirstReactSlider/static/js/3.eabb0dec.chunk.js.map",
+    "index.html": "/FirstReactSlider/index.html",
+    "static/css/main.166a9b3a.chunk.css.map": "/FirstReactSlider/static/css/main.166a9b3a.chunk.css.map",
+    "static/js/2.35ae814e.chunk.js.LICENSE.txt": "/FirstReactSlider/static/js/2.35ae814e.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart.f0432bbd.svg": "/FirstReactSlider/static/media/shopping-cart.f0432bbd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7eee316.js",
+    "static/js/2.35ae814e.chunk.js",
+    "static/css/main.166a9b3a.chunk.css",
+    "static/js/main.29b7cc28.chunk.js"
+  ]
+}
